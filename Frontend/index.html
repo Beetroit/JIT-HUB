@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Poppins&family=Urbanist:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+          theme: {
+            extend : {
+                colors: {
+                    blue: {
+                        a: '#05014a',
+                        b: '#020079',
+                        c: '#05014a',
+                        d: '#0053bf',
+                        e: '#006bf9'
+                    },
+                    green: {
+                        n: '#219653'
+                    },
+                    mrn: {
+                        a: '#830340'
+                    },
+                    prp: {
+                        a: '#7009c0'
+                    }
+                }
+            },
+            fontFamily: {
+                pop: ['Urbanist', 'sans-serif'],
+                lato: ['Lato', 'sans-serif']
+            }
+          },
+          corePlugins: {
+            preflight: false,
+          },
+        };
+      </script>
+    <title>Jit-Hub</title>
+</head>
+<body class="m-0 p-0 font-pop">
+    
+    <div class="text-white bg-gradient-to-r from-blue-d to-blue-e">
+
+        <header class="flex px-16 py-5 justify-between align-center border-red-900">
+
+            <div class="parent-container-1 flex align-center border border-red-500">
+                <h1 class="text-2xl uppercase cursor-pointer">Jit-Hub</h1>
+                <ul class="flex list-none gap-5">
+                    <li class="cursor-pointer">Home</li>
+                    <li class="cursor-pointer">About</li>
+                    <li class="cursor-pointer">Contact</li>
+                </ul>
+            </div>
+           
+            <div class="parent-container-2 py-1">
+                <input class="search px-5 py-3 border-white outline-none rounded-full bg-blue-e text-sm text-white placeholder-white" placeholder="Search..."/>
+                <button class="bg-white text-sm border-none px-6 py-3 rounded-full w-32">Sign In</button>
+            </div>
+
+        </header>
+
+        <div class="px-10 grid grid-cols-2 justify-between py-32">
+
+            <div class="gr-1">
+                <h2 class="capitalize text-6xl px-10 py-5">Empower Your World with Words, Support, and Safety</h2>
+                <p class="px-10 text-lato">
+                    Your number one stop when it comes to emergency/complaint or support cases. Explore the various services that are offered by Jit-Hub. Feel free to explore
+                </p>
+
+                <div class="px-24 py-12 flex gap-10 text-center">
+                    <a class="bg-white text-black px-8 py-4 rounded-full cursor-pointer text-blue-e"> Sign up </a>
+                    <a class="bg-blue-e text-black px-8 py-4 rounded-full cursor-pointer text-white hover:text-blue-e hover:bg-white ease-in"> Enrollment </a>
+                </div>
+
+            </div>
+
+            <div class="gr-2 pl-32">
+               
+                
+                  <div class="z-50 absolute flex flex-col gap-10 mt-24">
+
+                    <div class="px-5 py-1 text-white rounded-xl w-[230px] flex   justify-between base bg-white items-center ml-[-100px]">
+                        <div class="w-[50px] h-[50px] bg-green-n rounded-full text-center items-center bg-green-n flex justify-center text-2xl"><i class="fa-solid fa-asterisk"></i></div>
+                       
+                        <div>
+                            <h3 class="text-green-n"> USSD code finder </h3>
+                        </div>
+                           
+                      
+                    </div>
+    
+                    <div class="px-5 py-1 text-white rounded-xl w-[230px] flex   justify-between base bg-white items-center ml-[250px]">
+                        <div class="w-[50px] h-[50px] bg-prp-a rounded-full text-center items-center flex justify-center text-2xl"><i class="fa-solid fa-tower-broadcast"></i></div>
+                        <div>
+                            <h3 class="text-prp-a"> Emergency Response </h3>
+                           
+                        </div>
+                    </div>
+
+                    <div class="px-5 py-1 text-white rounded-xl w-[230px] flex   justify-between base bg-white items-center">
+                        <div class="w-[50px] h-[50px] bg-mrn-a rounded-full text-center items-center flex justify-center text-2xl"><i class="fa-solid fa-magnifying-glass"></i></div>
+                        <div>
+                            <h3 class="text-mrn-a"> USSD code finder </h3>
+                           
+                        </div>
+                    </div>
+
+                  
+
+                  </div>
+
+
+                <div class="z-0 ">
+                    <lottie-player src="https://lottie.host/61540c4e-eed3-490f-a58c-148448391fe8/J30QdRyqFx.json" background="##FFFFFF" speed="1" style="width: 100%; height: 100%" loop autoplay direction="1" mode="normal"></lottie-player>
+                </div>
+                    
+            </div>
+
+        </div>
+
+        <footer class="bg-white p-12 rounded-t-xl text-blue-c text-xl flex justify-between">
+
+            <div class="flex gap-10">
+                <a class="cursor-pointer">Terms and Conditions</a>
+                <a class="cursor-pointer">Privacy</a>
+                <a class="cursor-pointer">Sitemap</a>
+            </div>
+    
+            <div class="flex gap-10 text-2xl">
+               <a class="cursor-pointer"> <i class="fa-brands fa-facebook-f"></i></a>
+                <a class="cursor-pointer"><i class="fa-brands fa-linkedin-in"></i></a>
+                <a class="cursor-pointer"><i class="fa-brands fa-x-twitter"></i></a>
+            </div>
+    
+        </footer>
+
+    </div>
+
+
+</body>
+<script src="./script.js"></script>
+</html>
