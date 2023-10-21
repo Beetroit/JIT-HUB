@@ -26,7 +26,7 @@ def ussd_callback():
     response += "3. Emergency Service"
 
   elif text == '1':
-    response = 'CON '
+    response = 'CON Enter a word'
     # reply = get_attributes(text)
     # response = f"CON {reply}\n"
     
