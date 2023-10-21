@@ -8,7 +8,7 @@ response = ""
 @app.route('/ussd_dictionary', methods=['POST', 'GET'])
 def ussd_callback():
   global response
-  data = request.value
+  data = request.values
   print(data)
   session_id = request.values.get("sessionId", '')
   service_code = request.values.get("serviceCode", '')
