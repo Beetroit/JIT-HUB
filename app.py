@@ -43,6 +43,9 @@ def ussd_callback():
 		response = "END Your balance is " + balance
 	if text == "2":
 		response = "END This is your phone number " + phone_number
+	if len(words) > 3:
+		return f"""END Your words is {words[3]}
+			Thanks for using this service"""
 	return response
 
 
