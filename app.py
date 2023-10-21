@@ -8,6 +8,8 @@ response = ""
 @app.route('/ussd_dictionary', methods=['POST', 'GET'])
 def ussd_callback():
   global response
+  data = request.value
+  print(data)
   session_id = request.values.get("sessionId", '')
   service_code = request.values.get("serviceCode", '')
   phone_number = request.values.get("phoneNumber", '')
@@ -22,7 +24,7 @@ def ussd_callback():
     response += "1. Account number \n"
     response += "2. Account balance"  
   elif text == '1*1':
-    accountNumber  = "ACC1001"
+    accountNumber = "ACC1001"
     response = "END Your account number is " + accountNumber
   elif text == '1*2':
     balance  = "KES 10,000"
