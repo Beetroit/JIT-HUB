@@ -49,6 +49,16 @@ def ussd_callback():
 			Thanks for using this service"""
 	return response
 
+@app.route('/events', methods=['GET','POST'])
+def events():
+	if request.method == "POST":
+		data = request.values
+		print(f"{data=}")
+		with open('events.txt','w') as f:
+			f.write(str(data))
+	return "<h5> HI </h5>"
+
+
 
 @app.route("/", methods=["GET", "POST"])
 def index():
