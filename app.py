@@ -31,5 +31,11 @@ def ussd_callback():
     response = "END This is your phone number " + phone_number
   return response
 
+
+@app.route('/', methods=['GET', 'POST'])
+def index():
+    if request.method == 'POST':
+       return 'OK'
+    return '<h5> HI </h5>'
 if __name__ == '__main__':
     app.run()
