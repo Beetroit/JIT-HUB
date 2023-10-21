@@ -1,6 +1,7 @@
 from flask import Flask, request
 
 app = Flask('JIT HUB')
+from JIT_Dictionary import 
 
 
 response = ""
@@ -16,10 +17,13 @@ def ussd_callback():
   text = request.values.get("text", "default")
   
   if text == '':
-    response  = "CON What would you want to check \n"
-    response += "1. My Account \n"
-    response += "2. My phone number"
+    response  = "CON Welcome to JIT HUB, Kindly Pick a service"
+    response += "1. Dictionary Service"
+    response += "2. Essential Service"
+    response += "3. Emergency Service"
+
   elif text == '1':
+    reply = get_attributes(text)
     response = "CON Choose account information you want to view \n"
     response += "1. Account number \n"
     response += "2. Account balance"  
@@ -32,6 +36,7 @@ def ussd_callback():
   elif text == '2':
     response = "END This is your phone number " + phone_number
   return response
+
 
 
 @app.route('/', methods=['GET', 'POST'])
