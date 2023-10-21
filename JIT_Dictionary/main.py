@@ -7,7 +7,7 @@ class Entry:
     origin=''
     meanings=[]
 
-    def __str__(self):
+    def __repr__(self):
         return f'{self.word}\n{self.phonetic}\n{self.origin}\n{self.meanings}'
 
 class Meaning:
@@ -18,14 +18,22 @@ class Meaning:
         self.synonyms=synonyms
         self.antonyms=antonyms
 
-    def __str__(self):
+    def __repr__(self):
         return f'{self.part_of_speech}\n{self.definition}\n{self.example}\n{self.synonyms}\n{self.antonyms}'
 
-def get_attributes(word):
+def get_entries(word):
     api_url = f"https://api.dictionaryapi.dev/api/v2/entries/en/{word}"
     response = requests.get(api_url)
     attributes=json.loads(json.dumps(response.json()))
 
+    if isinstance(attributes, list):
+        return get_valid_entries(attributes)
+    else:
+        title=attributes.get('title','')
+        if title!='':
+            return title
+
+def get_valid_entries(attributes):
     entries=[]
     for item in attributes:
         entry=Entry()
@@ -51,9 +59,23 @@ def get_attributes(word):
                 meanings.append(Meaning(part_of_speech,definition['definition'],definition.get('example',''),synoyms, antonyms))
         entry.meanings=meanings
         entries.append(entry)
-        
-    return entries[1]
+    return entries
 
-print(get_attributes('set'))
+
+#example code
+for entry in get_entries('set'):
+    print(f'''
+    {entry.word}
+    {entry.phonetic}
+    {entry.origin}
+    ''')
+    for meaning in entry.meanings:
+         print(f'''
+        {meaning.part_of_speech}
+        {meaning.definition}
+        {meaning.example}
+        {meaning.synonyms}
+        {meaning.antonyms}
+        ''')
 
 
