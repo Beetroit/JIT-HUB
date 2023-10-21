@@ -23,6 +23,7 @@ def ussd_callback():
 	print(f"{text=}")
 
 	words = text.split("*")
+
 	if text == "":
 		response = """CON Welcome to JIT HUB, Kindly Pick a service"
 	1. Dictionary Service
@@ -33,7 +34,7 @@ def ussd_callback():
 		response = "CON Enter a word"
 		# reply = get_attributes(text)
 		# response = f"CON {reply}\n"
-	if len(words) > 1:
+	if len(words)  == 2:
 		return f"""CON Your words is {words[1]}"""
 	if text == "1*1":
 		accountNumber = "ACC1001"
@@ -43,7 +44,7 @@ def ussd_callback():
 		response = "END Your balance is " + balance
 	if text == "2":
 		response = "END This is your phone number " + phone_number
-	if len(words) > 3:
+	if len(words) > 2:
 		return f"""END Your words is {words[3]}
 			Thanks for using this service"""
 	return response
