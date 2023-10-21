@@ -1,7 +1,10 @@
 from flask import Flask, request
-
+import sys
+import os
+sys.path.insert(0, os.getcwd())
+print(sys.path)
 app = Flask('JIT HUB')
-from JIT_Dictionary import 
+from JIT_Dictionary import get_attributes
 
 
 response = ""
@@ -10,12 +13,12 @@ response = ""
 def ussd_callback():
   global response
   data = request.values
-  print(data)
+  print(f"{data=}")
   session_id = request.values.get("sessionId", '')
   service_code = request.values.get("serviceCode", '')
   phone_number = request.values.get("phoneNumber", '')
   text = request.values.get("text", "default")
-  
+  print(f"{text=}")
   if text == '':
     response  = "CON Welcome to JIT HUB, Kindly Pick a service"
     response += "1. Dictionary Service"
@@ -23,10 +26,10 @@ def ussd_callback():
     response += "3. Emergency Service"
 
   elif text == '1':
+    response = 'CON '
     reply = get_attributes(text)
-    response = "CON Choose account information you want to view \n"
-    response += "1. Account number \n"
-    response += "2. Account balance"  
+    response = f"CON {reply}\n"
+    
   elif text == '1*1':
     accountNumber = "ACC1001"
     response = "END Your account number is " + accountNumber
