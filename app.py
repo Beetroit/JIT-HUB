@@ -20,11 +20,11 @@ def ussd_callback():
   text = request.values.get("text", "default")
   print(f"{text=}")
   if text == '':
-    response  = "CON Welcome to JIT HUB, Kindly Pick a service"
-    response += "1. Dictionary Service"
-    response += "2. Essential Service"
-    response += "3. Emergency Service"
-
+    response  = """CON Welcome to JIT HUB, Kindly Pick a service"
+    1. Dictionary Service
+    2. Essential Service
+    3. Emergency Service"""
+    print(response)
   elif text == '1':
     response = 'CON Enter a word'
     # reply = get_attributes(text)
