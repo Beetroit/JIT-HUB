@@ -4,7 +4,7 @@ import os
 sys.path.insert(0, os.getcwd())
 print(sys.path)
 app = Flask('JIT HUB')
-from JIT_Dictionary import get_attributes
+# from JIT_Dictionary import get_attributes
 
 
 response = ""
@@ -27,8 +27,8 @@ def ussd_callback():
 
   elif text == '1':
     response = 'CON '
-    reply = get_attributes(text)
-    response = f"CON {reply}\n"
+    # reply = get_attributes(text)
+    # response = f"CON {reply}\n"
     
   elif text == '1*1':
     accountNumber = "ACC1001"
