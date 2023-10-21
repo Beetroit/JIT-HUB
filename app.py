@@ -45,7 +45,7 @@ def ussd_callback():
 	if text == "2":
 		response = "END This is your phone number " + phone_number
 	if len(words) > 2:
-		return f"""END Your words is {words[3]}
+		return f"""END Your words is {words[2]}
 			Thanks for using this service"""
 	return response
 
