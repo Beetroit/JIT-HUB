@@ -32,10 +32,12 @@ def ussd_callback():
 	2. Essential Service
 	3. Emergency Service"""
 		print(response)
+		return response
 	if text == "1":
 		response = "CON Enter a word"
 		# reply = get_attributes(text)
 		# response = f"CON {reply}\n"
+		return response
 	if len(words)  == 2:
 		entries = get_entries(words[1])
 		results=[{'POS':i[0], 'def.':i[1], 'usage':i[2], 'similar':', '.join(eval(i[3])), 'opposite':', '.join(eval(i[4]))} for i in [str(i).split('\n') for i in entries[0].meanings]]
@@ -46,8 +48,6 @@ def ussd_callback():
 		1. Get all meanings as sms (pro)
 		2. Quit
 		"""
-	if text == "2":
-		response = "END This is your phone number " + phone_number
 	if len(words) == 3:
 		print(words)
 		if isinstance(eval(words[0]), int) and isinstance(eval(words[1]), 'str') and eval(words[2]) ==1:
