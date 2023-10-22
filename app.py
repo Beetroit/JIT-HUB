@@ -42,18 +42,20 @@ def ussd_callback():
 		entries = get_entries(words[1])
 		results=[{'POS':i[0], 'def.':i[1], 'usage':i[2], 'similar':', '.join(eval(i[3])), 'opposite':', '.join(eval(i[4]))} for i in [str(i).split('\n') for i in entries[0].meanings]]
 		return f"""CON Your word is {words[1]}
-		{results[0]}
-		{results[1]}
+		A. {results[0]}
+
+		B. {results[1]}
+		
 		
 		1. Get all meanings as sms (pro)
 		2. Quit
 		"""
 	if len(words) == 3:
 		print(words)
-		if isinstance(eval(words[0]), int) and isinstance(eval(words[1]), 'str') and eval(words[2]) ==1:
+		if isinstance(eval(words[0]), int) and eval(words[2]) ==1:
 			return f"""END Your results will arrive shortly
 				Thank you for using USSDICT (JITHUB)"""
-		elif isinstance(eval(words[0]), int) and isinstance(eval(words[1]), 'str') and eval(words[2]) ==2:
+		elif isinstance(eval(words[0]), int) and eval(words[2]) ==2:
 			return f"""END Thank you for using USSDICT (JITHUB)"""
 	return f"""END Try again with a new query"""
 
