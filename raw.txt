@@ -1,0 +1,754 @@
+N300 data plan: 250MB/25days
+*885*1#
+"With this plan, Airtel gives you 250MB of data for just N300 and it's valid for 25 days (3 weeks).
+Data: 250MB; Fee: N300; Validity: 25 days; Activation code: *885*1#"
+N100 data plan(5MB daily): 25MB/5days
+*401#
+"With this plan, Airtel gives you 25MB of data for just N100 and it's valid for 5 days (5MB daily).
+Data: 25MB; Fee: N100; Validity: 5 days; Activation code: *401#"
+500MB for N100
+*141*106#
+Get 500MB for N100 to stream and enjoy your favourite shows.
+Airtel 6X airtime bonus
+*555*pin#
+With this service, you can benefit from Airtel 6X airtime bonus which will give you extra airtime for calls.
+Airtel 8X airtime bonus
+*126*pin#
+With this service, you can benefit from Airtel 8X airtime bonus which will give you extra airtime for calls.
+Borrow Airtime
+*500*amt#
+This service allows you to borrow airtime from Airtel./namt: the amount you want to borrow.
+Call customer care
+111
+This number helps you to call Airtel customer service.
+Please call back
+*140*num#
+"This service enables you to place a call back message to any of your contacts.
+num: represents the your recipient phone number."
+Change your Me2U code
+PIN 123++
+This service enables you to change your Me2U code. You have to enter the old PIN, then the new PIN in the fields provided. This will send an SMS containing your new PIN to 432.
+Change your airtel Me2u pin
+"Here you are able to change your Me2u code(pin). To do this, you should enter your old pin bellow and the new pin you will like to change to and hit ok. If you don't have a pin yet, then you should used "1234 as your old pin.
+Check airtel credit
+*123#
+This service enables you to check your current airtime balance which is available for calls.
+Transfer airtel airtime
+2u++
+This Airtel service enables you to make airtime transfer to another number. you have to enter the amount to be transfer and the recipient number in the fields provided.After clicking send, this will automatically send an SMS to 432 which will trigger the transaction.
+Transfer airtel airtime
+Daily Bonuses
+*370#
+With this service, you can enjoy daily bonuses from N5000 on Airtel Home Broadband. Dial the code to purchase. Various packages include: Lite: FUP:30GB + 1GB Daily for 7days at N5,000 Standard: FUP:130GB + 3GB Daily for 30days at N20,000 Diamond: FUP:210GB + 3GB Daily for 30days at N30,000 Platinum: FUP:550GB + 3GB Daily for 30days at N60,000
+Check data balance
+*141*11*0#
+This service allows you to check your current data balance(in MB) which is available for internet service.
+ca-app-pub-7597664768098865/1142863076
+To know your airtel phone number
+*121#
+This service enables you to know your Airtel phone number.
+Link your NIN
+*121*1#
+This code enables you to link your National Identification Number (NIN) to your Airtel line.
+More Data
+*141#
+With this service, Airtel gives you 20GB for N5000 which is valid for 30days.Just dial the code to subscribe and enjoy.
+N1000 data plan: 1.5GB/30days
+*496#
+"With this plan, Airtel gives you 1.5GB of data for just N1000 and it's valid for 30 days (1 month).
+Data: 1.5GB; Fee: N1000; Validity: 30 days; Activation code: *496#"
+N1000 Ultra sms pack: 500sms/15days
+*160*500#
+"With this plan, Airtel gives you 500sms for N1000 and it's valid for 15 days (2 weeks)
+package: 500sms; Fee: N1000; Validity: 15 days (2 weeks); Activation code: *160*500#"
+N100 data plan: 50MB/24hrs
+*410#
+"With this plan, Airtel gives you 50MB of data for just N100 and it's valid for 24 hours.
+Data: 50MB; Fee: N100; Validity: 24hours; Activation code: *410#"
+N136000 MEGA136 data plan: 200GB/365days
+*408#
+"With this plan, Airtel gives you 200GB of data for just N136000 and it's valid for 365 days (1 year).
+Data: 200GB; Fee: N136000; Validity: 365 days; Activation code: *408#"
+N1500 data plan: 3GB/30days
+*435#
+"With this plan, Airtel gives you 3GB of data for just N1500 and it's valid for 30 days (1 month).
+Data: 3GB; Fee: N1500; Validity: 30 days; Activation code: *435#"
+N1500 Platinum sms pack: 1000sms/30days
+*160*1000#
+"With this plan, Airtel gives you 1000sms for N1500 and it's valid for 30 days (1 month)
+package: 1000sms; Fee: N1500; Validity: 30 days (1 month); Activation code: *160*1000#"
+N2000 data plan: 3.5GB/30days
+*437#
+"With this plan, Airtel gives you 3.5GB of data for just N2000 and it's valid for 30 days (1 month).
+Data: 3.5GB; Fee: N2000; Validity: 30 days; Activation code: *437#"
+N200 data plan: 200MB/3days
+*412#
+"With this plan, Airtel gives you 200MB of data for just N200 and it's valid for 3 days.
+Data: 200MB; Fee: N200; Validity: 3 days; Activation code: *412#"
+N200 Silver sms pack: 100sms/7days
+*160*100#
+"With this plan, Airtel gives you 100sms for N200 and it's valid for 7 days (1 week)
+package: 100sms; Fee: N200; Validity: 7 days (1 week); Activation code: *160*100#"
+N2500 data plan: 5GB/30days
+*437*1#
+"With this plan, Airtel gives you 5GB of data for just N2500 and it's valid for 30 days (1 month).
+Data: 5GB; Fee: N2500; Validity: 30 days; Activation code: *437*1#"
+N25 Lite sms pack: 10sms/3days
+*160*10#
+"With this plan, Airtel gives you 10sms for N25 and it's valid for 3 days (72 hours)
+package: 10sms; Fee: N25; Validity: 3 days (72 hours); Activation code: *160*10#"
+N3000 Diamond sms pack: 2500sms/30days
+*160*2500#
+"With this plan, Airtel gives you 2500sms for N3000 and it's valid for 30 days (1 month)
+package: 2500sms; Fee: N3000; Validity: 30 days (1 month); Activation code: *160*2500#"
+N300 data plan: 350MB/7days
+*417#
+"With this plan, Airtel gives you 350MB of data for just N300 and it's valid for 7 days (1 week).
+Data: 350MB; Fee: N300; Validity: 7 days; Activation code: *417#"
+N3500 data plan: 7GB/30days
+*438#
+"With this plan, Airtel gives you 7GB of data for just N3500 and it's valid for 30 days (1 month).
+Data: 7GB; Fee: N3500; Validity: 30 days; Activation code: *438#"
+N36000 MEGA36 data plan: 50GB/180days
+*406#
+"With this plan, Airtel gives you 50GB of data for just N36000 and it's valid for 180 days (6 months).
+Data: 50GB; Fee: N36000; Validity: 180 days; Activation code: *406#"
+N4000 data plan: 9GB/30days
+*438*1#
+"With this plan, Airtel gives you 9GB of data for just N4000 and it's valid for 30 days (1 month).
+Data: 9GB; Fee: N4000; Validity: 30 days; Activation code: *438*1#"
+N5000 MEGA5 data plan: 10GB/30days
+*452#
+"With this plan, Airtel gives you 10GB of data for just N5000 and it's valid for 30 days (1 month).
+Data: 10GB; Fee: N5000; Validity: 30 days; Activation code: *452#"
+N500 data plan: 750MB/14days
+*418#
+"With this plan, Airtel gives you 750MB of data for just N500 and it's valid for 14 days (2 weeks).
+Data: 750MB; Fee: N500; Validity: 14 days; Activation code: *418#"
+N50 Max sms pack: 20sms/5days
+*160*20#
+"With this plan, Airtel gives you 20sms for N50 and it's valid for 5 days (120 hours)
+package: 20sms; Fee: N50; Validity: 5 days (120 hours); Activation code: *160*20#"
+N525 data plan: 200MB/7days
+*440*17#
+"With this plan, Airtel gives you 200MB of data for just N525 and it's valid for 7 days (1 week).
+Data: 200MB; Fee: N525; Validity: 7 days; Activation code: *440*17#"
+N70000 MEGA70 data plan: 100GB/365days
+*407#
+"With this plan, Airtel gives you 100GB of data for just N70000 and it's valid for 365 days (1 year).
+Data: 100GB; Fee: N70000; Validity: 365 days; Activation code: *407#"
+N8000 MEGA8 data plan: 16GB/30days
+*460#
+"With this plan, Airtel gives you 16GB of data for just N8000 and it's valid for 30 days (1 month).
+Data: 16GB; Fee: N8000; Validity: 30 days; Activation code: *460#"
+Airtel
+Please call back
+"Enter phone number bellow to request a call back from an Airtel subscriber. You can pick a contact from your phone book if you can't have it in mind."
+Please credit me
+Here, You can also prompt other Airtel subscribers to send you airtime using the Credit Me service. Enter a phone number bellow or chose from your phone book.
+Please credit me
+*141*8*num#
+"This Airtel service allows you to ask someone to credit your phone for you.
+num: represents the person's contact from whom you are asking credit."
+Smart Premier Bundle
+*470#
+"Smart Premier Bundle offers bundled packages that provide unlimited voice, SMS and data, as well as international calls. Smart Premier Bundle is available in two variants
+ · Smart Premier Bundle Platinum and
+ · Smart Premier Bundle Platinum Plus.
+ To enjoy Smart Premier Bundle exciting packages, simply dial *470# to subscribe to any of the plans."
+10X Smart recharge
+*220*PIN#
+SmartRECHARGE bundles gives you at least 10 times the value of your airtime when you recharge your line with *220*PIN#. You get great value for both calls and data in one single convenient recharge. In addition to your 10 times value, you EXTRA DATA VALUE on N500 and N1,000 recharges!
+Smart Talk2.0
+*315#
+"SmartTALK 2.0 is an exciting prepaid plan that allows subscribers enjoy the best flat tariff:
+ · Call all networks in Nigeria at 11kobo per second (from the very 1st second).N7 will be charged on your first call of the day. Simply dial *315# and start calling friends, family and everyone in Nigeria for 11k per second all day, all night!"
+Smart Trybe
+*312#
+SmartTRYBE is specially designed to keep you connected with everything that's up with your Trybe! With the best rates on data and calls to all networks, night browsing for your favorite movies, series and music and special campus data deals, you never miss a thing. You even get more data when buy data plans on campus. To migrate to SmartTRYBE dial *312#.
+Smart Trybe Junior
+*371#
+"SmartTRYBE Junior App is an educational solution which makes learning fun for children in primary and secondary schools with its 3D interactive multimedia based learning environment. Study materials are developed in compliance with the Nigerian Federal Ministry of Education adapted for pupils/ students in the West African sub-region, especially Nigeria. SmartTRYBE Junior also comes with additional features that always keeps Mum and Dad connected with the child affordably like:
+ · Free calls and SMS to Mum and Dad from kid's line
+ · 10% bonus of airtime transferred to kid's line when the parents recharges
+ · 100% bonus on data purchases from 200MB and above to browse and much more!
+ · To Opt in to SmartTRYBE Junior, simply dial *317# from an Airtel line.
+ · NERDC approved courses presented in formats that make learning fun for kids"
+Smart Value
+*314#
+"SmartVALUE offers you 15k/sec flat rate to all networks from the very 1st second (no access fee). Migrate to this plan free of charge by dialing *314#
+ Call all networks in Nigeria at 15kobo per second (from the very 1st second) no daily access fee."
+Talk More Bundles
+*234#
+TalkMore Bundles are great value bundles that give 500%" the value of airtime to make calls and send SMS to ALL NETWORKS in Nigeria WITHOUT RESTRICTION.
+ Talkmore Bundles can also be used to make international calls to USA, Canada, UK landlines, China and India as well as browse the internet.
+ TalkMore Bundles are open to all Airtel customers (Prepaid and Postpaid) and comes in different price points that fits every size of pocket."
+"Here you can transfer Airtel airtime to any Airtel user by entering the person phone number,the amount to be transfer and your transfer pin in the fields bellow. You can click on the contact icon to choose a contact from your phone book if you can't have it in mind."
+N10000 data plan: Unlimited/30days
+*462*10#
+"With this plan, Airtel gives you Unlimited data for just N10000 and it's valid for 30 days (1 month).
+Data: Unlimited; Fee: N10000; Validity: 30 days; Activation code: *462*10#"
+N15000 data plan: Unlimited/30days
+*462*15#
+"With this plan, Airtel gives you Unlimited data for just N15000 and it's valid for 30 days (1 month).
+Data: Unlimited; Fee: N15000; Validity: 30 days; Activation code: *462*15#"
+N20000 data plan: Unlimited/30days
+*462*20#
+"With this plan, Airtel gives you Unlimited data for just N20000 and it's valid for 30 days (1 month).
+Data: Unlimited; Fee: N20000; Validity: 30 days; Activation code: *462*20#"
+Voice+ Bundles
+*154*1#
+VOICE+ is a plan designed to meet your voice and data needs. Specially made for customers with HUGE VOICE & MODERATE DATA needs. Simply dial *154*1# to choose the bundle that is right for you
+N200: 1GB night plan(12am-5am)/1day
+*229*3*11#
+"With this plan, 9mobile gives you 1GB of data for N200 and it's valid for 1 day (12am-5am)
+Data: 1GB; Fee: N200; Validity: 1 day (12am-5am); Activation code: *229*2*11#"
+Activate 250% real bonus
+*611*1#
+This service gives you 250% real bonus for calls
+Borrow credit
+*665*amt#
+With this service, you can borrow airtime from 9mobile and pay back later./n amt: the amount you want to borrow.
+Check eligibility to borrow credit
+*665*3#
+This service enables you to know your eligibility to borrow airtime from 9mobile.
+Borrow Credit from 9mobile
+To borrow credit from 9mobile, enter the amount you want borrow bellow and hit ok.
+Buy Data or Airtime
+*200*1#
+This code enables you to buy Data or Airtime from 9mobile
+Check credit
+*232#
+This service code enables you to check your current airtime balance available for calls towards all network operators.
+Call customer care
+200
+This number enables you to call 9mobile customer service
+Check data balance
+*228#
+This service allows you to check your current data balance(in MB) available for internet service.
+ca-app-pub-7597664768098865/3769026410
+Get your NIN
+*346#
+This code enables you to know your National Identification Number (NIN)
+Link you NIN
+*996#
+This code enables you to verify and link your National Identify Number (NIN) to your phone number
+More blaze
+*200*3*1#
+4G LTE Live and more affordable with more blaze
+Morecliq
+*244*1#
+Voice calls: first 50 sec of national call charged at 25k/s; subsequent calls for the day will be at 11k/s. sms: N4/message national SMS to on-net and other networks. international SMS @ N15/message. mms/data: send MMS @N100.message, MMS uploads to Facebook gallery @ N50/100kb, PAYG @ 5k per kilobyte.
+MoreFlex plus
+*320#
+Want Xtradata and airtime? then moreflex plus is the right plan for you.
+N10000 data plan: 15GB/30days
+*229*4*1#
+"With this plan, 9mobile gives you 15GB of data for N10000 and it's valid for 30 days (1 month)
+Data: 15GB; Fee: N10000; Validity: 30 days (1 month); Activation code: *229*4*1#"
+N1000 data plan: 1GB/30days
+*229*2*7#
+"With this plan, 9mobile gives you 1GB of data for N1000 and it's valid for 30 days (1 month)
+Data: 1GB; Fee: N1000; Validity: 30 days (1 month); Activation code: *229*2*7#"
+N1000 evening/weekend plan(7pm-7am): 2GB/30days
+*229*3*12#
+"With this plan, 9mobile gives you 2GB of data for N1000 and it's valid for 7 days (7pm-7am)
+Data: 2GB; Fee: N1000; Validity: 7 days (7pm-7am); Activation code: *229*3*12#"
+N100 data plan: 40MB/24hrs
+*229*3*1#
+"With this plan, 9mobile gives you 40MB of data for N100 and it's valid for 24 hours (1 day)
+Data: 40MB; Fee: N100; Validity: 1 day (24 hours); Activation code: *229*3*1#"
+N100 facebook,twitter,instagram,eskimi,whatsApp,BBM,wechat/1day
+*343*6*7#
+"With this plan, 9mobile gives you facebook,twitter,instagram,eskimi,whatsApp,BBM,wechat data for N100 and it's valid for 1 day (24 hours)
+Data: WhatsApp, BBM and wechat; Fee: N100; Validity: 1 day (24 hours); Activation code: *343*6*7#"
+N110000 data plan: 120GB/365days
+*229*5*3#
+"With this plan, 9mobile gives you 120GB of data for N110000 and it's valid for 365 days (1 year)
+Data: 120GB; Fee: N110000; Validity: 365 days (1 year); Activation code: *229*5*3#"
+N1200 data plan: 1.5GB/30days
+*229*2*25#
+"With this plan, 9mobile gives you 1.5GB of data for N1200 and it's valid for 30 days (1 month)
+Data: 1.5GB; Fee: N1200; Validity: 30 days (1 month); Activation code: *229*2*25#"
+N200 data plan: 150MB/7days
+*229*2*10#
+"With this plan, 9mobile gives you 150MB of data for N200 and it's valid for 7 days (1 week)
+Data: 150MB; Fee: N200; Validity: 7 days (1 week); Activation code: *229*2*10#"
+N150 WhatsApp, BBM and wechat/1week
+*343*5*6#
+"With this plan, 9mobile gives you whatsApp, BBM and wechat data for N150 and it's valid for 7 days (1 week)
+Data: WhatsApp, BBM and wechat; Fee: N150; Validity: 7 days (1 week); Activation code: *343*5*6#"
+N18000 data plan: 27.5GB/30days
+*229*4*3#
+"With this plan, 9mobile gives you 27.5GB of data for N18000 and it's valid for 30 days (1 month)
+Data: 27.5GB; Fee: N18000; Validity: 30 days (1 month); Activation code: *229*4*3#"
+N2000 data plan: 2.5GB/30days
+*229*2*8#
+"With this plan, 9mobile gives you 2.5GB of data for N2000 and it's valid for 30 days (1 month)
+Data: 2.5GB; Fee: N2000; Validity: 30 days (1 month); Activation code: *229*2*8#"
+N2000 evening/weekend plan(7pm-7am): 5GB/30days
+*229*3*13#
+"With this plan, 9mobile gives you 5GB of data for N2000 and it's valid for 30 days (7pm-7am)
+Data: 5GB; Fee: N2000; Validity: 30 days (7pm-7am); Activation code: *229*3*13#"
+N27500 data plan: 30GB/90days
+*229*5*1#
+"With this plan, 9mobile gives you 30GB of data for N27500 and it's valid for 90 days (3 months)
+Data: 30GB; Fee: N27500; Validity: 90 days (3 months); Activation code: *229*5*1#"
+N3000 data plan: 4GB/30days
+*229*2*35#
+"With this plan, 9mobile gives you 4GB of data for N3000 and it's valid for 30 days (1 month)
+Data: 4GB; Fee: N3000; Validity: 30 days (1 month); Activation code: *229*2*35#"
+N300 facebook,twitter,instagram,eskimi,whatsApp,BBM,wechat/1week
+*343*6*8#
+"With this plan, 9mobile gives you facebook,twitter,instagram,eskimi,whatsApp,BBM,wechat data for N300 and it's valid for 7 days (1 week)
+Data: WhatsApp, BBM and wechat; Fee: N300; Validity: 7 days (1 week); Activation code: *343*6*8#"
+N4000 data plan: 5.5GB/30days
+*229*2*36#
+"With this plan, 9mobile gives you 5.5GB of data for N4000 and it's valid for 30 days (1 month)
+Data: 5.5GB; Fee: N4000; Validity: 30 days (1 month); Activation code: *229*2*36#"
+N400 WhatsApp, BBM and wechat/1Month
+*343*5*7#
+"With this plan, 9mobile gives you whatsApp, BBM and wechat data for N400 and it's valid for 30 days (1 month)
+Data: WhatsApp, BBM and wechat; Fee: N400; Validity: 30 days (1 month); Activation code: *343*5*7#"
+N500 data plan: 500MB/30days
+*229*2*12#
+"With this plan, 9mobile gives you 500MB of data for N500 and it's valid for 30 days (1 month)
+Data: 500MB; Fee: N500; Validity: 30 days (1 month); Activation code: *229*2*12#"
+N50 data plan: 10MB/24hrs
+*229*3*8#
+"With this plan, 9mobile gives you 10MB of data for N50 and it's valid for 24 hours (1 day)
+Data: 10MB; Fee: N50; Validity: 1 day (24 hours); Activation code: *229*3*8#"
+N50 WhatsApp, BBM and wechat/1day
+*343*5*5#
+"With this plan, 9mobile gives you whatsApp, BBM and wechat data for N50 and it's valid for 1 day (24 hours)
+Data: WhatsApp, BBM and wechat; Fee: N50; Validity: 1 day (24 hours); Activation code: *343*5*5#"
+N55000 data plan: 60GB/120days
+*229*5*2#
+"With this plan, 9mobile gives you 60GB of data for N55000 and it's valid for 120 days (4 months)
+Data: 60GB; Fee: N55000; Validity: 120 days (4 months); Activation code: *229*5*2#"
+N700 facebook,twitter,instagram,eskimi,whatsApp,BBM,wechat/1week
+*343*6*9#
+"With this plan, 9mobile gives you facebook,twitter,instagram,eskimi,whatsApp,BBM,wechat data for N700 and it's valid for 7 days (1 week)
+Data: WhatsApp, BBM and wechat; Fee: N700; Validity: 7 days (1 week); Activation code: *343*6*9#"
+N8000 data plan: 11.5GB/30days
+*229*2*5#
+"With this plan, 9mobile gives you 11.5GB of data for N8000 and it's valid for 30 days (1 month)
+Data: 11.5GB; Fee: N8000; Validity: 30 days (1 month); Activation code: *229*2*5#"
+N84992 data plan: 100GB/30days
+*229*4*5#
+"With this plan, 9mobile gives you 100GB of data for N84992 and it's valid for 30 days (1 month)
+Data: 100GB; Fee: N84992; Validity: 30 days (1 month); Activation code: *229*4*5#"
+Night Data Plan
+*282*22#
+With this code, 9mobile gives you 500MB Night data plan just for N50. Just dial the code and enjoy.
+9mobile you and me enables you to share data with another user. Enter a number you will like to share data with or chose from your phone book.
+Register a you and me number
+Register a you and me number
+*233*1*num#
+"Etisalat You and Me is a reward scheme which allows easy starter customers enjoy free credit every week to call an Etisalat You and Me special number anytime.If you opt-in for Etisalat U and Me, you will get N100 free credit during the week you recharge N100 and if you recharge up to N200, you will get N300 free credit. You can enjoy up to N1200 free credit every month by recharging with a minimum of N200 per week.
+num: the U and Me number you want to register"
+N400 2 hours of uninterrupted videos from any app
+*229*3*5#
+With this plan, 9mobile gives you 2hours of Uninterrupted videos from any app just for N400./nvalidity: 2hours
+Join etisalat you and me
+*244*2#
+Etisalat You and Me is a reward scheme which allows easy starter customers enjoy free credit every week to call an Etisalat You and Me special number anytime.If you opt-in for Etisalat U and Me, you will get N100 free credit during the week you recharge N100 and if you recharge up to N200, you will get N300 free credit. You can enjoy up to N1200 free credit every month by recharging with a minimum of N200 per week.
+9mobile
+Show dropdown menu
+com.google.android.material.transformation.FabTransformationScrimBehavior
+com.google.android.material.transformation.FabTransformationSheetBehavior
+772083313974866
+04914b31aa03ae47ca44d7e26bd43b30
+Copy link
+Open in browser
+Share link
+fb772083313974866
+Miscellaneous
+Feedback
+https://ussd-apps-4ba91.firebaseio.com
+154814858965
+Getting latest 9mobile codes
+Getting latest Airtel codes
+Getting latest glo codes
+Getting latest MTN codes
+ca-app-pub-7597664768098865/8638209715
+N10000 data plan; 26GB/30day
+*127*11#
+"With this Glo data plan, you get a whole 26GB of data plus a bonus of 6.5GB summing up to 32.5GB of data for just N10,000 and it's valid for 30 days (1 month).
+Data: 26GB, Bonus: 6.5GB, Price: N10,000, Validity: 30 days, Activation code: *127*11#"
+N1000 data plan; 1.6GB/30day
+*127*53#
+"With this Glo data plan, you get 1.6GB of data plus a bonus of 400MB summing up to 2GB of data for just N1000 and it's valid for 30 days (1 month).
+Data: 1.6GB, Bonus: 400MB, Price: N1000, Validity: 30 days, Activation code: *127*53#"
+N100 data plan; 80+20MB/1day
+*127*51#
+"With this Glo data plan, you get 80MB + 20MB of data for just N100 and it's valid for 24 hours (1 day).
+Data: 80MB; Bonus: 20MB; Fee: N100; Validity: 24hours; Activation code: *127*51#"
+N15000 data plan; 42GB/30day
+*127*12#
+"With this Glo data plan, you get a whole 42GB of data plus a bonus of 10.5GB summing up to 52.5GB of data for N15,000 and it's valid for 30 days (1 month).
+Data: 42GB, Bonus: 10.5GB, Price: N15,000, Validity: 30 days, Activation code: *127*12#"
+N18000 data plan; 50GB/30day
+*127*13#
+"With this Glo data plan, you get a whole 50GB of data plus a bonus of 12.5GB summing up to 62.5GB of data for just N18,000 and it's valid for 30 days (1 month).
+Data: 50GB, Bonus: 12.GB, Price: N18,000, Validity: 30 days, Activation code: *127*13#"
+N2000 data plan; 3.65GB/30day(My Phone Plan)
+*127*55#
+"With this Glo data plan, you get 3.65GB of data plus a bonus of 900MB summing up to 4.5GB for just N2000 and it's valid for 30 days (1 month).
+Data: 3.65GB, Bonus: 900MB, Price: N2000, Validity: 30 days, Activation code: *127*55#"
+N200 data plan; 200MB/5day
+*127*56#
+"With this Glo data plan, you get 210MB of data plus a bonus of 52MB summing up to 262MB of data for just N200 and it's valid for 5 days.
+Data: 210MB, Bonus: 52MB, Price: N200; Validity: 5 days, Activation code: *127*56#"
+N2500 data plan; 5.75GB/30day(So Special)
+*127*58#
+"With this Glo data plan, you get a whole 5.75GB of data plus a bonus of 1.45GB summing up to 7.2GB of data for just N2,500 and it's valid for 30 days (1 month).
+Data: 5.75GB, Bonus: 1.45GB, Price: N2,500, Validity: 30 days, Activation code: *127*58#"
+N3000 data plan; 7GB/30day(Always Macro)
+*127*54#
+"With this Glo data plan, you get a whole 7GB of data plus a bonus of 1.75GB summing up to 8.75GB of data for just N3,000 and it's valid for 30 days (1 month).
+Data: 7GB, Bonus: 1.75GB, Price: N3,000, Validity: 30 days, Activation code: *127*54#"
+N4000 data plan; 10GB/30day
+*127*59#
+"With this Glo data plan, you get a whole 10GB of data plus a bonus of 2.5GB summing up to 12.5GB of data for just N4,000 and it's valid for 30 days (1 month).
+Data: 10GB, Bonus: 2.5GB, Price: N4,000, Validity: 30 days, Activation code: *127*59#"
+N5000 data plan; 12.5GB/30day(Always Min)
+*127*2#
+"With this Glo data plan, you get a whole 12.5GB of data plus a bonus of 3.1GB summing up to 15.6GB of data for just N5,000 and it's valid for 30 days (1 month).
+Data: 12.5GB, Bonus: 3.1GB, Price: N5,000, Validity: 30 days, Activation code: *127*2#"
+N500 data plan; 800MB/14day
+*127*57#
+"With this Glo data plan, you get 800MB of data plus 200MB summing up to 1GB of data for just N500 and it's valid for 14 days (2 weeks).
+Data: 800MB, Bonus: 200MB, Price: N500, Validity: 14 days, Activation code: *127*57#"
+N50 data plan; 30MB/1day
+*127*14#
+"With this Glo data plan, you get 30MB of data for just N50 and it's valid for 24 hours.
+Data: 30MB; Fee: N50; Validity: 24hours; Activation code: *127*14#"
+N8000 data plan; 20GB/30day(Always Max)
+*127*1#
+"With this Glo data plan, you get a whole 20GB of data plus a bonus of 5GB summing up 25GB of data for just N8,000 and it's valid for 30 days (1 month).
+Data: 20GB, Bonus: 5GB, Price: N8,000, Validity: 30 days, Activation code: *127*1#"
+Know my phone number
+*135*8#
+Are you always having difficulties remembering your Glo phone number? then this code will help you!
+Account balance
+*124*1#
+This service code will give you your account balance.
+Glo more Data
+*777#
+Dialing this code will give you the list of all Glo data plans available on the network which you can then chose from.
+Glo Amebo
+*555*PIN#
+Enjoy 5X the value on every recharge of N100 and above. The airtime value is valid for 14days for any recharge less than N200 or 30days for any recharge above N200.
+BB complete month
+*777*21#
+Glo Black Berry monthly offer
+BB complete week
+*777*22#
+Glo Black Berry weekly offer
+You can request a Call Back from a Glo contact by entering a phone number bellow or choose from your contact list.
+Borrow Airtime
+*321#
+This service enables you to borrow airtime for calls towards all networks from Glo and pay back later.
+Buy data from your bank account
+*805#
+This code helps you to buy glo airtime from your bank account
+Call customer care
+121
+This service allows you to call Glo customer service.
+Check credit
+\#124#
+This service will enable you to get your current airtime balance available for calls towards all network operators.
+Check data Balance
+*127*0#
+This service code helps you to check your data balance(in MB) which is available for internet service.
+Glo facebook
+*206#
+This service gives you a data bundle that can be used can be used only for facebook.
+ca-app-pub-7597664768098865/3154427673
+G100 N6000; 4GB/30days
+*127*5#
+"With this Glo data plan, you get a whole 4GB of data for just N6,000 and it's valid for 30 days (1 month).
+Data: 4GB; Fee: N6,000; Validity: 30 days; Activation code: *127*5#"
+G300 N15000; 12GB/3Months
+*127*4#
+"With this Glo data plan, you get a whole 12GB of data for just N15,000 and it's valid for 90 days (3 month).
+Data: 12GB; Fee: N15,000; Validity: 90 days; Activation code: *127*4#"
+G_Leisure N5000; 12GB/8PM-9AM weekdays
+*127*7#
+This Glo data plan offers you 12GB for just N5000 valid from 8PM to 9AM on weekdays
+G_Work N6000; 12GB/8PM-9AM
+*127*6#
+With G_Work Glo data plan, you get 12GB for just N6000 valid from 8PM to 9AM on weekdays
+Link your NIN
+sms to 109
+"This code enables you to link your National Identification Number (NIN) to your Glo line. You do this by sending UpdateNIN NIN FirstName LastName to 109
+ by sms to 109"
+N200 night plan; 1GB/1day
+*127*60#
+With this, Glo gives you 1GB which is usable only at night and is valid for 1day.
+N500_weekend_plan; 3GB/7days
+*127*61#
+With this, Glo gives you 3GB which is usable only on weekends and is valid for 7days.
+Glo
+Please call back
+*125*num#
+"This Glo service enables you send a call back to any Glo subscriber. The most special thing about 9jaCodes is that you don't have to remember the recipient number, 9jaCodes will pick this contact from your contacts list for you.
+num: the recipient phone number."
+Share Data
+*127*01*num#
+With this service, you can share your data bundle with any other subscriber. just click the button and fill the required fields, amazingly 9jaCodes will pick the recipient phone number from your contacts list for you.
+Share Data
+Share Glo data with a friend
+Take Control
+SMS HELP to 2442
+"Receive only the messages you want.
+To protect your privacy as a Glo subscriber, you now have the power to choose only the promotional messages that to receive with Do Not Disturb."
+Glo Yakata
+*230#
+YAKATA offers you awesome voice and data benefits when you buy a Glo SIM. When you buy a Glo SIM today, you get upto 6GB data every month for 6 months (that's 36GB of data) plus a whooping N2,200 on every N100 recharge to call ALL NETWORKS.
+MTN AWUF4U
+*888*PIN#
+"Awuf4U is an offer that will reward customers with 400% airtime bonus on every recharge from N100 and above OR 275% on every recharge between N1 and N99.
+The X5 offer will be available to ALL MTNN Prepaid and Post-paid customers.
+All you have to do to enjoy this offer is to recharge using the special code *888*PIN# or via VTU."
+MTN Beta Talk
+*123*2*1#
+MTN BetaTalk is a prepaid tariff plan that rewards you with 150% airtime bonus on every recharge below N100, 250% airtime bonus on recharges from N100 and above. You also enjoy 35MB data at N50 and 250MB at N200 on BetaTalk. MTN BetaTalk Benefits"
+ You will enjoy the following benefits when you are on MTN BetaTalk plan:
+ 250% bonus airtime on every recharge of N100 and above.
+ 150% bonus airtime on every recharge below N100
+ 35MB at N50
+ 250MB at N200
+ Free 10MB Data bonus on First recharge of the month "
+MTNBizConnect
+*460*1*3#
+MTN BizConnect is the ideal mobile plan that offers micro and small businesses competitively low call rates with services such as CallerFeel, data, and other digital services all bundled in one value-loaded package to help your business grow. Dial *460*1*3# to get started.
+Borrow Airtime
+*606#
+This service code will help you if you want to borrow airtime from MTN to pay back later.
+Buy Data or Airtime
+*904#
+The fastest and best way to buy airtime or data with MTN Nigeria
+Please call back
+With MTN please call back", you are able to request a call back from any MTN user. Bellow you can enter the person's phone number or select from your phone book and hit ok."
+Extra call bonus
+*159*4#
+This service will give you extra bonuses for calls towards MTN subscribers and possibly other subscribers.
+Change transfer pin
+*600*oldpin*newpin*newpin#
+This service helps you to change your airtime transfer Personal Identification Number (PIN). After entering the code, you enter the old PIN and enter the new PIN twice.
+Change MTN transfer pin
+You can change your mtn credit transfer pin. All you need to do is enter your old pin and enter your new pin 2 times and press ok.
+Check account balance (summary)
+*141#
+This service will give you the summary of your account balance
+Check credit
+*556#
+This service will enable you to get your current airtime balance available for calls towards MTN subscribers and all other network operators.
+Check detail account balance
+*141*1#
+This will give you your account balance and every details associated with the balance.
+Please credit me
+Here you can ask an mtn user to credit your phone. Enter a phone number bellow or chose from your phone book and the person will receive a message please credit me" "
+Transfer MTN airtime
+"Here you can transfer MTN airtime to any MTN user by entering the person phone number,the amount to be transfer and your transfer pin in the fields bellow. You can click on the contact icon to choose a contact from your phone book if you can't have it in mind."
+Call customer care
+180
+Dial this number to call MTN customer service.
+Check data balance
+*559#
+This service code helps you to check your data balance(in MB) which is available for internet service.
+Find a MoMoAgent
+*223#
+You can now make a card less cash withdrawal from your bank at any MoMo agent near you. This service is available on all banks in Nigeria. Dial *223# to find a Momo agent near you.
+ca-app-pub-7597664768098865/1266630931
+To know my phone number
+*123#
+"This code will help you to know your MTN phone number if at any time you can't remember it."
+Link your NIN
+*785#
+This code enables you to link your National Identification Number (NIN) to your MTN line.
+MTN mPulse
+*344*1#
+"mPulse is an exciting service from MTN which equips students between the ages of 9 and 15 with the resources they need to maximize their potential and be all they want to be. The service has two features: the mPulse tariff and the mPulse website.
+ "What do I benefit from MTN mPulse?"
+ mPulse website with fun and educational content. www.mtnonline.com/mpulse
+ Special data bundles for mPulse website at 700MB for N150 and 200MB for N50.
+ Special Birthday reward of N200 airtime.
+ Free WhatsApp monthly for 7days.
+ Data Bonus on recharge.
+ National calls at 15.36k/secs.
+ SMS to all networks in Nigeria at ₦4.10.
+ "
+N10000: 22GB/30days
+*117#
+"With this plan, MTN gives you 22GB of data for N10,000 and it's valid for 30 days (one month)
+Data: 22GB; Fee: N10,000; Validity: 30 days (one month); Activation code: *117#"
+N1000: 1.5GB/30days
+*106#
+"With this plan, MTN gives you 1GB (+500mb bonus data) of data for just N1000 and it's valid for 30 days (one month).
+Data: 1.5GB; Fee: N1000; Validity: 30 days (one month); Activation code: *106#"
+N100: 50MB/1day
+*104#
+"With this plan, MTN gives you 50MB of data for just N100 and it's valid for 24 hours.
+Data: 50MB; Fee: N100; Validity: 24hours; Activation code: *104#"
+N20000: 50GB/60days
+*118#
+"With this plan, MTN gives you 50GB of data for N20,000 and it's valid for 60 days (two month) Activation code: Dial *118# or Text 118 to 131 on your MTN line to subscribe.
+Data: 50GB; Fee: N20,000; Validity: 60 days (two month); Activation code: *118#"
+N2000: 3.5GB/30days
+*110#
+"With this plan, MTN gives you 3.5GB (+500mb bonus data) of data for just N2000 and it's valid for 30 days (one month)
+Data: 3.5GB; Fee: N2000; Validity: 30 days (one month); Activation code: *110#"
+N200: 150MB/1day
+*113#
+"With this plan, MTN gives you 150MB of data for just N200 and it's valid for 24 hours.
+Data: 150MB; Fee: N200; Validity: 24hours; Activation code: *113#"
+N300: 150MB/7days
+*102#
+"With this plan, MTN gives you 150MB of data for just N300 and it's valid for 7 days (one week) Activation code: Dial *102# or Text 102 to 131 on your MTN line to subscribe.
+Data: 150MB; Fee: N300; Validity: 7 days (one week); Activation code: *102#"
+N3500: 5GB/30days
+*107#
+"With this plan, MTN gives you 5GB of data for just N3,500 and it's valid for 30 days (one month)
+Data: 5GB; Fee: N3,500; Validity: 30 days (one month); Activation code: *107#"
+N50000: 85GB/90days
+*133#
+"With this plan, MTN gives you 85GB of data for N50,000 and it's valid for 90 days (three month) Activation code: Dial *133# or Text 133 to 131 on your MTN line to subscribe.
+Data: 85GB; Fee: N50,000; Validity: 90 days (three month); Activation code: *133#"
+N5000: 10GB/30days
+*116#
+"With this plan, MTN gives you 10GB of data for N5000 and it's valid for 30 days (one month)
+Data: 10GB; Fee: N5000; Validity: 30 days (one month); Activation code: *116#"
+N500: 750MB/7days
+*103#
+"With this plan, MTN gives you 750MB of data for just N500 and it's valid for 7 days (one week) Activation code: Dial *103# or Text 103 to 131 on your MTN line to subscribe.
+Data: 750MB; Fee: N500; Validity: 7 days (one week); Activation code: *103#"
+MTN
+Please call back
+*133*num#
+"This service enables you to send a call back to any contact. Amazingly 9jaCodes will help you to pick the recipient number from your contacts list if you can't remember it"
+Please send me credit
+*133*2*num#
+"With this MTN service, you can ask someone to credit your phone for you.
+num: the phone number of the person you are asking credit from. The amazing thing about 9jaCodes is that you can pick this contact from your contact list if you can't remember it."
+MTN pulse
+*406*1#
+The Pulse House Party"
+MTN Pulse brings to you a celebrity house party. What if Falz the Bahd Guy shows up at your door? We delight our Pulse customers with a surprise party. This edition holds in Lagos featuring other celebrities such as Small Doctor, Ycee and Falz.
+"MTN PULSE CAMPUS INVASION "
+MTN Pulse storms University with the Pulse Campus Invasion. There were various activities such as Games, Talk Series, Noiseless Party and Movie Night. It was a one week of pure entertainment, education, enlightenment and value."
+MTMPulseDoYou
+*406#
+Create and share all the content you want and have fun doing it without breaking the bank! Join the #MTNPulseDoYou club! Dial *406# to get the bundles now!
+Sms bonuses
+*159*3#
+This service gives you access to all SMS bonuses available on the network.
+Transfer airtime
+*600*num*amt*pin#
+"This service helps you to transfer MTN airtime to another subscriber. The amazing thing about 9jaCodes is that you don't have to remember the recipient number before making this transaction, you can just pick this number from your contacts list.
+num: the number you want to transfer airtime to, amt: the amount you want to transfer, pin: your transfer Personal identification Number(PIN)"
+MTN True Talk
+*123*2*6#
+MTN TruTalk is a prepaid tariff allows you enjoy FLAT rate of 11.26kobo/sec for calls ACROSS ALL local Networks in Nigeria after paying a daily access fee of ₦7.17 .All MTN Prepaid customers can migrate to the MTN TruTalk tariff plan. Benefits of MTN TruTalk"
+ A flat rate of 11.26kobo/sec for calls ACROSS ALL local Networks in Nigeria after paying a daily access fee of ₦7.17.
+ FREE migration EVERY time you migrate to MTN TruTalk.
+ Access to all MTN products and services. "
+Xtra data
+XtraSpecial Postpaid
+XtraSpecial
+"MTN XtraSpecial Post-paid is a special tariff plan that allows you enjoy a FLAT rate of 15.36k kobo per second for MTN-to-MTN calls, MTN-to-Other networks and to 18 selected international destinations from the very first second. MTN XtraSpecial Post-paid tariff plan does not attract a daily or monthly subscription or access fee.
+ "Benefits of XtraSpecial Postpaid Plan"
+ You will enjoy all the following benefits when you are on MTN XtraSpecial Postpaid tariff plan:
+ Flat rate of 15.36k/sec for calls to All Local Network in Nigeria.
+ Flat rate of 15.36k/sec for calls to eighteen (18) international countries.
+ Special data offer of 4.5GB on every purchase of N2000 monthly data bundle.
+ Plus other exciting products and services. "Steps to Migrate to XtraSpecial Postpaid:"
+ You will need to visit any MTN Service Centre or Connect Store nationwide.
+ Fill and sign off a Subscriber Agreement Form.
+ Present your valid international passport, driver's license or national ID card.
+ 2 Passport Photograph.
+ Fill a bank confirmation form.
+ Fill a Credit Consent Form.
+ Provide a copy of a recent utility bill. This could be electricity, water, waste disposal or telephone bill.
+ Undergo a Credit Rating "
+MTN Xtra Special Prepaid
+*408*1#
+"MTN XtraSpecial Prepaid is a special tariff plan that allows customers enjoy a flat rate of 15.36k/sec for calls to all networks in Nigeria and to eighteen (18) selected international countries from the very first second.
+ All MTNN Prepaid customers can migrate to MTN XtraSpecial tariff plan. "Benefits of XtraSpecial Prepaid"
+ You will enjoy the following:
+ Flat rate of 15.36k/sec for calls to All Local Network in Nigeria.
+ Flat rate of 15.36k/sec for calls to eighteen (18) international countries.
+ Special data bundles: 3.75GB monthly data bundle at N1500 and 4.5GB monthly data bundle at N2000.
+ 10MB Data Bonus on First Recharge of the Month
+ Plus other exciting products and services.
+ "
+Xtra talk
+N1000 XtraTalk, N3,900 Voice Value and 300MB Data Value
+N10000 XtraTalk, N39,000 Voice Value and 2.5GB Data Value
+sms V10000 to 131
+With this plan, for just N10,000 MTN offers you N39,000 for your calls to all networks locally within Nigeria and while roaming with 2.5GB of data which is valid for 30 days
+sms V1000 to 131
+With this plan, for just N1,000 MTN offers you N3900 for your calls to all networks locally within Nigeria and 300MB of data which is valid for 30 days
+N15000 XtraTalk, N59,000 Voice Value and 3.5GB Data Value
+sms V15000 to 131
+With this plan, for just N15,000 MTN offers you N59,000 for your calls to all networks locally within Nigeria and while roaming with 3.5GB of data which is valid for 30 days
+N2000 XtraTalk, N7,850 Voice Value and 650MB Data Value
+N20000 XtraTalk, N80,200 Voice Value and 4.5GB Data Value
+sms V20000 to 131
+With this plan, for just N20,000 MTN offers you N80,200 for your calls to all networks locally within Nigeria and while roaming with 4.5GB of data which is valid for 30 days
+sms V2000 to 131
+With this plan, for just N2,000 MTN offers you N7850 for your calls to all networks locally within Nigeria and while roaming with 650MB of data which is valid for 30 days
+N300 XtraTalk, N1,000 Voice Value and 50MB Data Value
+sms V300 to 131
+With this plan, for just N300 MTN offers you N1000 for your calls to all networks locally within Nigeria and 50MB of data which is valid for 7 days
+N500 XtraTalk, N1,950 Voice Value and 100MB Data Value
+N5000 XtraTalk, N19,500 Voice Value and 1.5GB Data Value
+sms V5000 to 131
+With this plan, for just N5,000 MTN offers you N19,500 for your calls to all networks locally within Nigeria and while roaming with 1.5GB of data which is valid for 30 days
+sms V500 to 131
+With this plan, for just N500 MTN offers you N1950 for your calls to all networks locally within Nigeria and 100MB of data which is valid for 7 days
+MTN XtraValue
+XtraTalk/Data
+"MTN XtraValue tariff Plan is a plan that rewards you with airtime for National SMS and calls, International calls to some selected destinations and volumes of data for browsing after subscribing to any XtraValue bundle plan.
+The best thing about XtraValue, is that it is divided into two:
+XtraTalk (this bundle gives you more airtime than data).
+XtraData (this bundle gives you more data than airtime)"
+N1000 XtraData, 1GB Data Value and N2,000 Voice Value
+N10000 XtraData, 17.5GB Data Value and N20,000 Voice Value
+sms D10000 to 131
+With this plan, for just N10,000 MTN offers you N20,000 for your calls to all networks locally within Nigeria and while roaming with 17.5GB of data which is valid for 30 days
+sms D1000 to 131
+With this plan, for just N1,000 MTN offers you N2,000 for your calls to all networks locally within Nigeria and 1GB of data which is valid for 30 days
+N15000 XtraData, 25GB Data Value and N30,000 Voice Value
+sms D15000 to 131
+With this plan, for just N15,000 MTN offers you N30,000 for your calls to all networks locally within Nigeria and while roaming with 25GB of data which is valid for 30 days
+N2000 XtraData, 3GB Data Value and N4,000 Data Value
+N20000 XtraData, 35GB Data Value and N45,000 Voice Value
+sms D20000 to 131
+With this plan, for just N20,000 MTN offers you N45,000 for your calls to all networks locally within Nigeria and while roaming with 35GB of data which is valid for 30 days
+sms D2000 to 131
+With this plan, for just N2,000 MTN offers you N4,000 for your calls to all networks locally within Nigeria and while roaming with 3GB of data which is valid for 30 days
+N300 XtraData, 600MB Data Value and N600 Voice Value
+sms D300 to 131
+With this plan, for just N300 MTN offers you N600 for your calls to all networks locally within Nigeria and 600MB of data which is valid for 7 days
+N500 XtraData, 500MB Data Value and N1,000 Voice Value
+N5000 XtraData, 7.5GB Data Value and N10,000 Voice Value
+sms D5000 to 131
+With this plan, for just N5,000 MTN offers you N10,000 for your calls to all networks locally within Nigeria and while roaming with 7.5GB of data which is valid for 30 days
+sms D500 to 131
+With this plan, for just N500 MTN offers you N1,000 for your calls to all networks locally within Nigeria and 500MB of data which is valid for 7 days
+MTN Yafun Yafun
+Yafun Yafun
+What are the benefits of Yafun Yafun"
+ You will be able to enjoy the following benefits on the plan:
+ FREE N500 airtime after you register, activate and perform a chargeable activity. N400 will be used for National calls, SMS WHILE N100 for data.
+ 700% bonus on EVERY recharge of N100 and above after registering and activating your new number. 500% of the bonus will be used for National Voice and SMS WHILE 200% of the bonus will be used for Data on all websites etc.
+ 100% Data Bonus on EVERY Data activations.
+ Plus other exciting offers.
+"How to get into Yafun Yafun on MTN"
+ To activate MTN YafunYafun simply do the following:
+ Buy a new SIM, register and activate it and then select MTN YafunYafun tariff plan from the USSD Menu that will be displayed.
+ However, if you fail to choose a tariff plan, you will be activated on YafunYafun plan by default.
+ "

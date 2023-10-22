@@ -2,6 +2,8 @@ from flask import Flask, request
 import sys
 import os
 
+from JIT_Dictionary.main import get_entries
+
 sys.path.insert(0, os.getcwd())
 print(sys.path)
 app = Flask("JIT HUB")
@@ -35,26 +37,32 @@ def ussd_callback():
 		# reply = get_attributes(text)
 		# response = f"CON {reply}\n"
 	if len(words)  == 2:
-		return f"""CON Your words is {words[1]}"""
-	if text == "1*1":
-		accountNumber = "ACC1001"
-		response = "END Your account number is " + accountNumber
-	if text == "1*2":
-		balance = "KES 10,000"
-		response = "END Your balance is " + balance
+		entries = get_entries(words[1])
+		results=[{'POS':i[0], 'def.':i[1], 'usage':i[2], 'similar':', '.join(eval(i[3])), 'opposite':', '.join(eval(i[4]))} for i in [str(i).split('\n') for i in entries[0].meanings]]
+		return f"""CON Your word is {words[1]}
+		{results[0]}
+		{results[1]}
+		
+		1. Get all meanings as sms (pro)
+		2. Quit
+		"""
 	if text == "2":
 		response = "END This is your phone number " + phone_number
-	if len(words) > 2:
-		return f"""END Your words is {words[2]}
-			Thanks for using this service"""
-	return response
+	if len(words) == 3:
+		print(words)
+		if isinstance(eval(words[0]), int) and isinstance(eval(words[1]), 'str') and eval(words[2]) ==1:
+			return f"""END Your results will arrive shortly
+				Thank you for using USSDICT (JITHUB)"""
+		elif isinstance(eval(words[0]), int) and isinstance(eval(words[1]), 'str') and eval(words[2]) ==2:
+			return f"""END Thank you for using USSDICT (JITHUB)"""
+	return f"""END Try again with a new query"""
 
 @app.route('/events', methods=['GET','POST'])
 def events():
 	if request.method == "POST":
 		data = request.values
 		print(f"{data=}")
-		with open('events.txt','w') as f:
+		with open('events.txt','+a') as f:
 			f.write(str(data))
 	return "<h5> HI </h5>"
 

@@ -10,13 +10,19 @@ class Entry:
     def __repr__(self):
         return f'{self.word}\n{self.phonetic}\n{self.origin}\n{self.meanings}'
 
+    def add_meaning(self, meaning):
+        self.meanings.append(meaning)
+
+    def __iter__(self):
+        return iter(self.meanings)
+
 class Meaning:
-    def __init__(self,part_of_speech, definition, example, synonyms, antonyms):
-        self.part_of_speech=part_of_speech
-        self.definition=definition
-        self.example=example
-        self.synonyms=synonyms
-        self.antonyms=antonyms
+    def __init__(self, part_of_speech, definition, example, synonyms, antonyms):
+        self.part_of_speech = part_of_speech
+        self.definition = definition
+        self.example = example
+        self.synonyms = synonyms
+        self.antonyms = antonyms
 
     def __repr__(self):
         return f'{self.part_of_speech}\n{self.definition}\n{self.example}\n{self.synonyms}\n{self.antonyms}'
@@ -77,5 +83,6 @@ for entry in get_entries('set'):
         {meaning.synonyms}
         {meaning.antonyms}
         ''')
+    break
 
 
