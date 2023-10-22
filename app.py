@@ -40,11 +40,11 @@ def ussd_callback():
 		return response
 	if len(words)  == 2:
 		entries = get_entries(words[1])
-		results=[{'POS':i[0], 'def.':i[1], 'usage':i[2], 'similar':', '.join(eval(i[3])), 'opposite':', '.join(eval(i[4]))} for i in [str(i).split('\n') for i in entries[0].meanings]]
+		results=[{'pos':i[0], 'def.':i[1], 'usage':i[2], 'similar':', '.join(eval(i[3])), 'opposite':', '.join(eval(i[4]))} for i in [str(i).split('\n') for i in entries[0].meanings]]
 		return f"""CON Your word is {words[1]}
-		A. {results[0]}
+		A. {str(results[0]).replace('{','').replace('}','')}
 
-		B. {results[1]}
+		B. {str(results[1]).replace('{','').replace('}','')}
 		
 
 		1. Get all meanings as sms (pro)
