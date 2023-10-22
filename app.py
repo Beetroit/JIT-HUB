@@ -46,14 +46,14 @@ def ussd_callback():
 
 		B. {results[1]}
 		
-		
+
 		1. Get all meanings as sms (pro)
 		2. Quit
 		"""
 	if len(words) == 3:
 		print(words)
 		if isinstance(eval(words[0]), int) and eval(words[2]) ==1:
-			return f"""END Your results will arrive shortly
+			return f"""END Your results will arrive shortly via SMS
 				Thank you for using USSDICT (JITHUB)"""
 		elif isinstance(eval(words[0]), int) and eval(words[2]) ==2:
 			return f"""END Thank you for using USSDICT (JITHUB)"""
